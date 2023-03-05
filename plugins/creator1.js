@@ -15,15 +15,15 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : Rull
+${htjava} *💌 Nama* : MauL
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
 ${htjava} *⏰ Tanggal lahir* : Private 🥶
 ${htjava} *🎨 Umur* : Private 🥶
 ${htjava} *🧮 Kelas* : Private
-${htjava} *🧩 Hobby* : Ngegame & Ngebot
-${htjava} *💬 Sifat* : ASIK KALAU UDAH KENAL
-${htjava} *🗺️ Tinggal* : Jatim,Trenggalek,Bendungan
+
+
+${htjava} *🗺️ Tinggal* : Jogja
 ${htjava} *🎋 Quotes* : Menang Exp Opo Hyper? Panggah Menang Seng DiFollow IGne:)
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
