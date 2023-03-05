@@ -48,7 +48,7 @@ global.media = 'https://telegra.ph/file/08ae4464dfd3cc051a230.jpg'
 global.wame = 'https://wa.me/6283159126932'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['62', '𝕽𝖚𝖑𝖑  ꩜', true]
+['6283159126932', 'MasPhii  ꩜', true]
 ]
 global.mods = []
 global.prems = fs.readFileSync('./rul-settings/premium.json')
